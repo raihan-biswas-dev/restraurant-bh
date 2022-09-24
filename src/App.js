@@ -1,9 +1,10 @@
 import "./App.css";
+import MainComponent from "./components/MainComponent";
 
 function App() {
   return (
     <div className="App">
-      <h1>Folder Setup</h1>
+      <MainComponent />
     </div>
   );
 }
